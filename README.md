@@ -8,7 +8,7 @@
 
 ---
 
-# Start up
+## Start up
 
 ```js
 const RoScript = require('roscript.js');
@@ -20,7 +20,7 @@ const client = new RoScript.Client();
 ```
 ---
 
-# Client Functions
+## Client Functions
 **login**
 `await client.login('TOKEN',true)`
 _Logs you into the account_
@@ -35,7 +35,7 @@ _Refreshes the token_
 
 ---
 
-# Functions
+## Functions
 **fetchServers**
 `await RoScript.fetchServers(placeId);`
 _Returns all servers of a place_
