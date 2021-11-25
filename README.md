@@ -1,4 +1,6 @@
-![alt text](https://raw.githubusercontent.com/E-Witz/RoScript.js/main/Images/Untitled%20(3).png)
+<h1 align="center">
+    ![alt text](https://raw.githubusercontent.com/E-Witz/RoScript.js/main/Images/Untitled%20(3).png)
+</h1>
 ---
 
 # Installation
