@@ -82,6 +82,10 @@ _Upvotes or downvotes on an universe_
 `await RoScript.universeVotes(universeId);`
 _Returns upvotes or downvotes on an universe_
 
+**buyPrivateServer**
+`await RoScript.buyPrivateServer(universeId,name,price);`
+_Buys a private server_
+
 ---
 
 ## Developers / Credits
