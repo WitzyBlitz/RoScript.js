@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/E-Witz/RoScript.js/main/Images/Untitled%20(3).png"></img>
 </h1>
 
-## About RoScript
+<h1 align="center">About RoScript.js</h1>
 <p align="center">RoScript is a frameworking for the Roblox API! It allows developers to fully use the Roblox API to its limits. We are against the abuse of the Roblox API.</p>
 
 ---
