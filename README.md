@@ -57,6 +57,10 @@ _Returns xcsrf token with cookie_
 `await RoScript.purchaseAudio(name,filedata,boolean);`
 _Uploads an audio to roblox_
 
+**uploadThumbnail**
+`await RoScript.uploadThumbnail(universeid,filedata,boolean);`
+_Uploads thumbnail to universe_
+
 ---
 
 ## User API
