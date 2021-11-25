@@ -74,6 +74,10 @@ _Returns data of a universe_
 `await RoScript.universeProducts(universeId);`
 _Returns products of a universe_
 
+**universeVote**
+`await RoScript.universeVote(universeId,boolean);`
+_Returns upvotes or downvotes a universe_
+
 ---
 
 ## Developers / Credits
