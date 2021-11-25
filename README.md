@@ -14,6 +14,8 @@ const client = new RoScript.Client();
     })
 })()
 ```
+---
+
 # Client Functions
 **login**
 `await client.login('TOKEN',true)`
