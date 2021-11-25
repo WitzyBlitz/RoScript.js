@@ -18,3 +18,11 @@ const client = new RoScript.Client();
 **fetchServers**
 `await RoScript.fetchServers(placeId);`
 _Returns all servers of a place_
+
+**fetchXCSRFNoToken**
+`await RoScript.fetchXCSRFNoToken();`
+_Returns xcsrf token without a cookie_
+
+**fetchXCSRF**
+`await RoScript.fetchXCSRF();`
+_Returns xcsrf token with cookie_
