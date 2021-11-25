@@ -14,6 +14,19 @@ const client = new RoScript.Client();
     })
 })()
 ```
+# Client Functions
+**login**
+`await client.login('TOKEN',true)`
+_Logs you into the account_
+
+**logout**
+`await client.logout(true)`
+_Logs you out of the account_
+
+**refreshToken**
+`await client.refreshToken(true)`
+_Refreshes the token_
+
 # Functions
 **fetchServers**
 `await RoScript.fetchServers(placeId);`
