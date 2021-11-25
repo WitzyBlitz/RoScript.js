@@ -52,6 +52,13 @@ _Returns xcsrf token with cookie_
 
 ---
 
+## Purchase API
+**purchaseAudio**
+`await RoScript.purchaseAudio(name,filedata,boolean);`
+_Uploads an audio to roblox_
+
+---
+
 ## User API
 **fetchStatus**
 `await RoScript.fetchStatus();`
