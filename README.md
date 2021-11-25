@@ -69,6 +69,11 @@ _Returns the logged in users userid_
 `await RoScript.changeDisplayName(data);`
 _Changes the users displayname_
 
+**playerData**
+`await RoScript.playerData(userid);`
+_Returns data of inputted userid_
+
+
 ---
 
 ## Games API
