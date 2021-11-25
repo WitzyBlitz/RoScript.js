@@ -52,7 +52,7 @@ _Returns xcsrf token with cookie_
 
 ---
 
-## Purchase API
+## Publish API
 **purchaseAudio**
 `await RoScript.purchaseAudio(name,filedata,boolean);`
 _Uploads an audio to roblox_
