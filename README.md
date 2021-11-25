@@ -3,3 +3,14 @@
 # Installation
 
 `npm i RoScript.js@latest`
+
+# Start up
+
+```js
+const RoScript = require('roscript.js');
+const client = new RoScript.Client();
+(async()=>{
+    await client.login('',true).then(async(e)=>{
+    })
+})()
+```
