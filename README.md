@@ -68,15 +68,19 @@ _Returns data of a place_
 
 **universeData**
 `await RoScript.universeData(universeId);`
-_Returns data of a universe_
+_Returns data of an universe_
 
 **universeProducts**
 `await RoScript.universeProducts(universeId);`
-_Returns products of a universe_
+_Returns products of an universe_
 
 **universeVote**
 `await RoScript.universeVote(universeId,boolean);`
-_Returns upvotes or downvotes a universe_
+_Upvotes or downvotes on an universe_
+
+**universeVotes**
+`await RoScript.universeVotes(universeId);`
+_Returns upvotes or downvotes on an universe_
 
 ---
 
