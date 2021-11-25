@@ -3,7 +3,9 @@
 </h1>
 
 ## About RoScript
-RoScript is a frameworking for the Roblox API! It allows developers to fully use the Roblox API to its limits. We are against the abuse of the Roblox API.
+<p align="center">RoScript is a frameworking for the Roblox API! It allows developers to fully use the Roblox API to its limits. We are against the abuse of the Roblox API.</p>
+
+---
 
 ## Installation
 
