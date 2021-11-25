@@ -41,7 +41,7 @@ _Refreshes the token_
 
 ---
 
-## Functions
+## Games API
 **fetchServers**
 `await RoScript.fetchServers(placeId,type,order,limit);`
 _Returns all servers of a place_
