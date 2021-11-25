@@ -61,6 +61,14 @@ _Returns logged in users status_
 `await RoScript.changeStatus(description);`
 _Changes status of logged in user_
 
+**fetchUserId**
+`await RoScript.fetchUserId();`
+_Returns the logged in users userid_
+
+**changeDisplayName**
+`await RoScript.changeDisplayName(data);`
+_Changes the users displayname_
+
 ---
 
 ## Games API
