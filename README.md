@@ -147,6 +147,10 @@ _Buys a private server_
 `await RoScript.SocialLinks(universeId,JSON.stringify({"type": "Discord","url": 'https://discord.gg/HdPtp4rEHR',"title": "xd"}),boolean);`
 _Sets social links onto universe_
 
+**editPlaceData**
+`await RoScript.editPlaceData(placeId,JSON.stringify({"name": "Test","maxPlayerCount":50,"description":"Test","allowCopying": false}),boolean);`
+_Edits place data_
+
 ---
 
 ## Developers / Credits
