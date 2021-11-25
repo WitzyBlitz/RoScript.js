@@ -14,7 +14,9 @@
 const RoScript = require('roscript.js');
 const client = new RoScript.Client();
 (async()=>{
-    await client.login('',true).then(async(e)=>{
+    // Create an asynchronous function
+        // Await the client.login function
+        await client.login('',true).then(async(e)=>{
     })
 })()
 ```
