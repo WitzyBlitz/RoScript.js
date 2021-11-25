@@ -2,7 +2,8 @@
     <img src="https://raw.githubusercontent.com/E-Witz/RoScript.js/main/Images/Untitled%20(3).png"></img>
 </h1>
 
---
+## About RoScript
+RoScript is a frameworking for the Roblox API!
 
 ## Installation
 
