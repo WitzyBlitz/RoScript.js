@@ -17,4 +17,5 @@ const client = new RoScript.Client();
 # Functions
 **fetchServers**
 `await RoScript.fetchServers(placeId);`
-```Returns all servers of a place```
+```css
+Returns all servers of a place```
