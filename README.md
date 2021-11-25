@@ -2,6 +2,8 @@
     <img src="https://raw.githubusercontent.com/E-Witz/RoScript.js/main/Images/Untitled%20(3).png"></img>
 </h1>
 
+--
+
 ## Installation
 
 `npm i RoScript.js@latest`
