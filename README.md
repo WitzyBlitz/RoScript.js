@@ -84,6 +84,10 @@ _Changes the users displayname_
 `await RoScript.playerData(userid);`
 _Returns data of inputted userid_
 
+**isPremium**
+`await RoScript.isPremium(userid);`
+_Returns if user has premium_
+
 
 ---
 
