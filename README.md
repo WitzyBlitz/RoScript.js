@@ -1,8 +1,13 @@
 # RoScript JS
 ![alt text](https://raw.githubusercontent.com/E-Witz/RoScript.js/main/Images/Untitled%20(3).png)
+
+---
+
 # Installation
 
 `npm i RoScript.js@latest`
+
+---
 
 # Start up
 
@@ -28,6 +33,8 @@ _Logs you out of the account_
 **refreshToken**
 `await client.refreshToken(true)`
 _Refreshes the token_
+
+---
 
 # Functions
 **fetchServers**
@@ -61,3 +68,5 @@ _Returns data of a universe_
 **universeProducts**
 `await RoScript.universeProducts(universeId);`
 _Returns products of a universe_
+
+---
