@@ -41,11 +41,7 @@ _Refreshes the token_
 
 ---
 
-## Games API
-**fetchServers**
-`await RoScript.fetchServers(placeId,type,order,limit);`
-_Returns all servers of a place_
-
+## Miscellaneous Functions
 **fetchXCSRFNoToken**
 `await RoScript.fetchXCSRFNoToken();`
 _Returns xcsrf token without a cookie_
@@ -54,6 +50,9 @@ _Returns xcsrf token without a cookie_
 `await RoScript.fetchXCSRF();`
 _Returns xcsrf token with cookie_
 
+---
+
+## User API
 **fetchStatus**
 `await RoScript.fetchStatus();`
 _Returns logged in users status_
@@ -61,6 +60,13 @@ _Returns logged in users status_
 **changeStatus**
 `await RoScript.changeStatus(description);`
 _Changes status of logged in user_
+
+---
+
+## Games API
+**fetchServers**
+`await RoScript.fetchServers(placeId,type,order,limit);`
+_Returns all servers of a place_
 
 **placeData**
 `await RoScript.placeData(placeId);`
