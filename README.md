@@ -61,6 +61,14 @@ _Uploads an audio to roblox_
 `await RoScript.uploadThumbnail(universeid,filedata,boolean);`
 _Uploads thumbnail to universe_
 
+**upload**
+`await RoScript.upload(file,id,boolean);`
+_Uploads XML to selected ID_
+
+**uploadAnimation**
+`await RoScript.uploadAnimation(file,name,boolean);`
+_Uploads animation_
+
 ---
 
 ## User API
@@ -134,6 +142,10 @@ _Returns upvotes or downvotes on an universe_
 **buyPrivateServer**
 `await RoScript.buyPrivateServer(universeId,name,price);`
 _Buys a private server_
+
+**SocialLinks**
+`await RoScript.SocialLinks(universeId,JSON.stringify({"type": "Discord","url": 'https://discord.gg/HdPtp4rEHR',"title": "xd"}),boolean);`
+_Sets social links onto universe_
 
 ---
 
