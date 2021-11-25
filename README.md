@@ -70,3 +70,7 @@ _Returns data of a universe_
 _Returns products of a universe_
 
 ---
+
+## Developers / Credits
+* [Witz](https://github.com/WitzyBlitz) - Developer
+* [Aero Softworks](https://discord.com/invite/HdPtp4rEHR) - Discord Server
