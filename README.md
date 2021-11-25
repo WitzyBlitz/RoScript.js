@@ -88,6 +88,21 @@ _Returns data of inputted userid_
 `await RoScript.isPremium(userid);`
 _Returns if user has premium_
 
+**friendsCount**
+`await RoScript.friendsCount();`
+_Returns friend count_
+
+**friendRequestCount**
+`await RoScript.friendRequestCount();`
+_Returns friend request count_
+
+**declineAllFriends**
+`await RoScript.declineAllFriends();`
+_Declines all friend requests_
+
+**follow**
+`await RoScript.follow(userid,captchaid,captchatoken,bool);`
+_Follows user_
 
 ---
 
